@@ -1,0 +1,10 @@
+[book]
+authors = ["chronium"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Åtbe Lang"
+
+[output.html]
+additional-js = ["highlightjs-aatbe/aatbe.js", "src/aatbe.js"]
+default-theme = "Navy"

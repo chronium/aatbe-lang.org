@@ -1,0 +1,6 @@
+- `Syntax & features`
+- `Best practices (certain structures, if you could task X in a few ways, what is preferred?)`
+- `Code examples, lots of code examples. They tell a lot more than "boring" theory in my opinion.`
+- `Without bashing other languages, how it compares to others - syntax / performance / memory usage / ...`
+- `Target(s) - Web / Mac / Windows / Linux / IoT stuff / ...`
+- `I also like the way the Rust book works with like indicators of "this code won't compile so don't even try to run it" for example`

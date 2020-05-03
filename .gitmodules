@@ -1,0 +1,3 @@
+[submodule "highlightjs-aatbe"]
+	path = highlightjs-aatbe
+	url = https://github.com/chronium/highlightjs-aatbe.git
